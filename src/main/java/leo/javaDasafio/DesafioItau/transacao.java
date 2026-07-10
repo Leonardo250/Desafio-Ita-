@@ -8,7 +8,7 @@ import java.math.BigDecimal;
 import java.time.OffsetDateTime;
 
 @Data
-@ 
+@AllArgsConstructor
 @NoArgsConstructor
 public class transacao  {
 
